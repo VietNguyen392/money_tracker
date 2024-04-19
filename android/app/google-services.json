@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "730216592722",
+    "project_id": "money-tracker-1d92c",
+    "storage_bucket": "money-tracker-1d92c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730216592722:android:891abdf536766dd741b68b",
+        "android_client_info": {
+          "package_name": "com.vietnh.money_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQFKaRVtiga3MWSOh96rz3HA8r5n1mO6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
